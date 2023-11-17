@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import seaborn as sns
@@ -302,3 +303,4 @@ st.write(
 # st.write("Valores dos Filtros:")
 # st.write(f"Ano: {fAno}, Mês: {fMes}, Bairro: {fBairro}, Fator de Contribuição: {fFator}, Tipo de Veículo: {fTipoVeiculo}")
 # st.write(f"Número de linhas no DataFrame filtrado: {len(df_filtrado)}")
+
